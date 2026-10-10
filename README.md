@@ -3,6 +3,7 @@
 
 * **Course**: Applications of ICT (CS-117)
 * **Student Name**: Muhammad Abdullah
+* **Reg no**: 608998
 * **Class**: EE-48, Syndicate B
 * **Institution**: NUST College of E&ME
 * **Submitted to**: Dr. Shahzad
